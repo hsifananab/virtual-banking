@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/virtual-banking/static/css/main.8cc16def.css",
-    "main.js": "/virtual-banking/static/js/main.670e471f.js",
+    "main.js": "/virtual-banking/static/js/main.018b49bc.js",
     "static/media/video.mp4": "/virtual-banking/static/media/video.7d1ea6a94986d5c2a068.mp4",
     "static/media/svg-1.svg": "/virtual-banking/static/media/svg-1.b0505dc0b2dc5cd9906baa0db04f50d6.svg",
     "static/media/svg-5.svg": "/virtual-banking/static/media/svg-5.d261c5c3cdc67781890f8c28d25ee443.svg",
@@ -11,10 +11,10 @@
     "static/media/svg-6.svg": "/virtual-banking/static/media/svg-6.adfac74c80e9f0165c922a08a939f358.svg",
     "index.html": "/virtual-banking/index.html",
     "main.8cc16def.css.map": "/virtual-banking/static/css/main.8cc16def.css.map",
-    "main.670e471f.js.map": "/virtual-banking/static/js/main.670e471f.js.map"
+    "main.018b49bc.js.map": "/virtual-banking/static/js/main.018b49bc.js.map"
   },
   "entrypoints": [
     "static/css/main.8cc16def.css",
-    "static/js/main.670e471f.js"
+    "static/js/main.018b49bc.js"
   ]
 }
